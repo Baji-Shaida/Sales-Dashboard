@@ -6,9 +6,9 @@ A single-page sales dashboard styled like a merchant's ledger book: parchment to
 
 ## Screenshots
 
-![Sales Overview — KPI ribbon, revenue trend, and category breakdown](screenshots/dashboard-overview.png)
+![Sales Overview — KPI ribbon, revenue trend, and category breakdown](Screenshots/dashboard-overview.png)
 
-![Recent orders, top products, and regional split](screenshots/dashboard-orders-products.png)
+![Recent orders, top products, and regional split](Screenshots/dashboard-orders-products.png)
 
 ## What it shows
 
